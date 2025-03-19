@@ -1,15 +1,16 @@
-A simple Flutter app that fetches and displays Pokémon cards using the Pokémon TCG API. Users can browse the card list and view enlarged images with a single tap.
+# pokemon_card_viewer
 
-Features
-Fetches Pokémon cards from an API.
-Displays card images efficiently using CachedNetworkImage.
-Allows users to tap on a card to view an enlarged version in a dialog.
-Installation
-Clone this repository.
-Run flutter pub get to install dependencies.
-Use flutter run to launch the application.
-API Used
-Pokémon TCG API for fetching card data.
-Credits
-This project was developed by Saijeevcan Minhas with learning assistance from W3Schools for Flutter basics.
+A new Flutter project.
 
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
